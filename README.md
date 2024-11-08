@@ -19,6 +19,8 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 🚀 AutoMapper ile Hızlı Eşleme: Veritabanı nesneleri ile DTO nesneleri arasında otomatik eşleme sağlanarak geliştirme süreci hızlandırılır.
 
+
+
 **Kullanılan Teknolojiler:**
 
 🌍 ASP.NET Core & Web API: Performans odaklı, sağlam altyapı ve hızlı API yönetimi.
