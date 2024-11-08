@@ -1,19 +1,19 @@
-##SignalR ile QR Kodlu Sipariş Yönetim Projesi##
+# SignalR ile QR Kodlu Sipariş Yönetim Projesi
 
 Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı dostu bir hale getirecek bir çözüm sunmaktır. Gerçek zamanlı veri iletimi sağlamak için SignalR teknolojisini kullanarak, siparişler, rezervasyonlar ve bildirimler anlık olarak güncellenip takip edilebilir. Restoran yöneticileri, masa durumu, rezervasyon yönetimi ve veritabanı bilgilerini anlık olarak izleyebilirken, müşteriler siparişlerini kolayca verebilir ve bu siparişler mutfakta hızla işleme alınabilir.
- Bu proje, hem restoran sahipleri hem de müşteriler için etkili, hızlı ve kesintisiz bir deneyim sunmayı hedefler.
 
-**Projenin Öne Çıkan Özellikleri:**
 
-🚀Müşteriler, siparişlerini masalarına ekleyebilir, sepetlerini güncelleyebilir ve siparişler mutfakla anında iletilir. 
-🚀Kullanıcılar, hızlı bir şekilde online rezervasyon yapabilir ve mevcut rezervasyonlarının durumunu kolayca görebilirler. 
-🚀Admin paneli, masaların doluluk durumu ve diğer kritik verileri anlık olarak güncelleyerek yöneticilere hızlı bilgi sağlar. 
-🚀Kullanıcılar ve yöneticiler arasında kesintisiz ve hızlı bir iletişim altyapısı oluşturulur. 
-🚀Rezervasyonlar ve önemli işlemlerle ilgili kullanıcılar  E-posta Gönderimi ile anında bilgilendirilir.
-🚀Kullanıcılar Rapid api üzerinden yemek tarifleri görüntüleyebilirler.
-🚀AutoMapper ile veritabanı nesneleri ile Data Transfer Object (DTO) nesneleri arasındaki eşlemeyi otomatikleştirerek geliştirme sürecini hızlandırır.
+## Projenin Öne Çıkan Özellikleri:
 
-Kullanılan Teknolojiler:
+🚀 Anlık Sipariş ve Sepet Yönetimi: Müşteriler siparişlerini masalarına ekleyebilir, sepetlerini güncelleyebilir ve siparişler mutfağa anında iletilir.
+🚀 Kolay Online Rezervasyon: Kullanıcılar hızlıca online rezervasyon yapabilir ve mevcut rezervasyon durumlarını kolayca takip edebilir.
+🚀 Gerçek Zamanlı Masa Durumu ve Veri İzleme: Admin panelinde masaların doluluk durumu ve diğer kritik veriler anlık olarak güncellenir.
+🚀 Kesintisiz İletişim Altyapısı: Kullanıcılar ve yöneticiler arasında hızlı ve kesintisiz iletişim sağlanır.
+🚀 Otomatik E-posta Bildirimleri: Rezervasyonlar ve önemli işlemlerle ilgili kullanıcılar e-posta ile anında bilgilendirilir.
+🚀 Yemek Tarifleri Görüntüleme: Rapid API üzerinden kullanıcılar yemek tariflerine erişebilir.
+🚀 AutoMapper ile Hızlı Eşleme: Veritabanı nesneleri ile DTO nesneleri arasında otomatik eşleme sağlanarak geliştirme süreci hızlandırılır.
+
+**Kullanılan Teknolojiler:**
 
 🌍 ASP.NET Core & Web API: Performans odaklı, sağlam altyapı ve hızlı API yönetimi.
 🔗 SignalR: Gerçek zamanlı veri aktarımı ile anlık sipariş ve bildirim güncellemeleri.
