@@ -7,19 +7,19 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 ## Projenin Öne Çıkan Özellikleri:
 
-🚀 Anlık Sipariş ve Sepet Yönetimi: Müşteriler siparişlerini masalarına ekleyebilir, sepetlerini güncelleyebilir ve siparişler mutfağa anında iletilir.
+🚀 **Anlık Sipariş ve Sepet Yönetimi:** Müşteriler siparişlerini masalarına ekleyebilir, sepetlerini güncelleyebilir ve siparişler mutfağa anında iletilir.
 
-🚀 Kolay Online Rezervasyon: Kullanıcılar hızlıca online rezervasyon yapabilir ve mevcut rezervasyon durumlarını kolayca takip edebilir.
+🚀 **Kolay Online Rezervasyon:** Kullanıcılar hızlıca online rezervasyon yapabilir ve mevcut rezervasyon durumlarını kolayca takip edebilir.
 
-🚀 Gerçek Zamanlı Masa Durumu ve Veri İzleme: Admin panelinde masaların doluluk durumu ve diğer kritik veriler anlık olarak güncellenir.
+🚀 **Gerçek Zamanlı Masa Durumu ve Veri İzleme:** Admin panelinde masaların doluluk durumu ve diğer kritik veriler anlık olarak güncellenir.
 
-🚀 Kesintisiz İletişim Altyapısı: Kullanıcılar ve yöneticiler arasında hızlı ve kesintisiz iletişim sağlanır.
+🚀 **Kesintisiz İletişim Altyapısı:** Kullanıcılar ve yöneticiler arasında hızlı ve kesintisiz iletişim sağlanır.
 
-🚀 Otomatik E-posta Bildirimleri: Rezervasyonlar ve önemli işlemlerle ilgili kullanıcılar e-posta ile anında bilgilendirilir.
+🚀 **Otomatik E-posta Bildirimleri:** Rezervasyonlar ve önemli işlemlerle ilgili kullanıcılar e-posta ile anında bilgilendirilir.
 
-🚀 Yemek Tarifleri Görüntüleme: Rapid API üzerinden kullanıcılar yemek tariflerine erişebilir.
+🚀 **Yemek Tarifleri Görüntüleme:** Rapid API üzerinden kullanıcılar yemek tariflerine erişebilir.
 
-🚀 AutoMapper ile Hızlı Eşleme: Veritabanı nesneleri ile DTO nesneleri arasında otomatik eşleme sağlanarak geliştirme süreci hızlandırılır.
+🚀 **AutoMapper ile Hızlı Eşleme:** Veritabanı nesneleri ile DTO nesneleri arasında otomatik eşleme sağlanarak geliştirme süreci hızlandırılır.
 
 
 
@@ -44,6 +44,18 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 
 ![anasayfa](https://github.com/user-attachments/assets/b158a9ef-112c-42a5-9a94-af3b15266e8c)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
