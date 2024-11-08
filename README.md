@@ -1,3 +1,5 @@
+
+
 # SignalR ile QR Kodlu Sipariş Yönetim Projesi
 
 Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı dostu bir hale getirecek bir çözüm sunmaktır. Gerçek zamanlı veri iletimi sağlamak için SignalR teknolojisini kullanarak, siparişler, rezervasyonlar ve bildirimler anlık olarak güncellenip takip edilebilir. Restoran yöneticileri, masa durumu, rezervasyon yönetimi ve veritabanı bilgilerini anlık olarak izleyebilirken, müşteriler siparişlerini kolayca verebilir ve bu siparişler mutfakta hızla işleme alınabilir.
@@ -36,3 +38,6 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 🔄 AutoMapper: Veritabanı nesneleri ile DTO'lar arasında otomatik eşleme, geliştirme sürecini hızlandırır.
 
 🔐 Identity: Kullanıcı kimlik doğrulama, yetkilendirme ve güvenlik yönetimi için entegre çözüm.
+
+
+![anasayfa](https://github.com/user-attachments/assets/b158a9ef-112c-42a5-9a94-af3b15266e8c)
