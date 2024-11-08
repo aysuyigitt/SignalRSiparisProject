@@ -7,7 +7,7 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 
 
-## Projenin Öne Çıkan Özellikleri: ##
+## Projenin Öne Çıkan Özellikleri: 
 
 🚀 **Anlık Sipariş ve Sepet Yönetimi:** Müşteriler siparişlerini masalarına ekleyebilir, sepetlerini güncelleyebilir ve siparişler mutfağa anında iletilir.
 
