@@ -1,0 +1,2352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\menutable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\menutable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\menutablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\menutablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\customertable\\customertablelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\customertable\\customertablelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\customertablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\customertablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\menutable\\createmenutable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\menutable\\createmenutable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\hubs\\signalrhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\hubs\\signalrhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_menunavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_menunavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_uilayoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_uilayoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_uilayoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_uilayoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutheaderpartialcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutheaderpartialcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutfootercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutfootercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_defaulttestimonialcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_defaulttestimonialcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_defaultslidercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_defaultslidercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_defaultourmenucomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_defaultourmenucomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_defaultoffercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_defaultoffercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_defaultbooktablecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_defaultbooktablecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_defaultaboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_defaultaboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\defaultcomponents\\_defaultaboutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\defaultcomponents\\_defaultaboutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\uilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\uilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\signalrdefaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\signalrdefaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\progressbarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\progressbarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\dtos\\maildtos\\createmaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\dtos\\maildtos\\createmaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\uilayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\uilayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_uilayoutsocialmediacomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_uilayoutsocialmediacomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\menucomponents\\_menunavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\menucomponents\\_menunavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\menucomponents\\_menucategoryfiltercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\menucomponents\\_menucategoryfiltercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\uilayoutcomponents\\_uilayoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\uilayoutcomponents\\_uilayoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_uilayoutheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_uilayoutheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_uilayoutfootercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_uilayoutfootercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_menucategoryfiltercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_menucategoryfiltercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\layoutcomponents\\_layoutsidebarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\layoutcomponents\\_layoutsidebarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\layoutcomponents\\_layoutscriptcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\layoutcomponents\\_layoutscriptcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\layoutcomponents\\_layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\layoutcomponents\\_layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\layoutcomponents\\_layoutheaderpartialcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\layoutcomponents\\_layoutheaderpartialcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\layoutcomponents\\_layoutfootercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\layoutcomponents\\_layoutfootercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\defaultcomponents\\_defaulttestimonialcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\defaultcomponents\\_defaulttestimonialcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\defaultcomponents\\_defaultslidercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\defaultcomponents\\_defaultslidercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\defaultcomponents\\_defaultourmenucomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\defaultcomponents\\_defaultourmenucomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\defaultcomponents\\_defaultoffercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\defaultcomponents\\_defaultoffercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\defaultcomponents\\_defaultbooktablecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\defaultcomponents\\_defaultbooktablecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\bookatablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\bookatablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\moneycasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\moneycasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efsocialmediadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efsocialmediadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\eforderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\eforderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\controllers\\foodrapidapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\foodrapidapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\eforderdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\eforderdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efbasketdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efbasketdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\ibasketdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\ibasketdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\uilayoutcomponents\\_uilayoutsocialmediacomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\uilayoutcomponents\\_uilayoutsocialmediacomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\viewcomponents\\uilayoutcomponents\\_uilayoutfootercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\viewcomponents\\uilayoutcomponents\\_uilayoutfootercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\testimonialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\testimonialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\socialmediascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\socialmediascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\mapping\\aboutmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\mapping\\aboutmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.businesslayer\\abstract\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\migrations\\20241021135315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\migrations\\20241021135315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\menutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\menutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\moneycase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\moneycase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.entitylayer\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC651D-BB7C-474F-8EB1-8CBE14BA8AAF}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\imenutabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\imenutabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AYSU Y\u0130\u011E\u0130T\\AppData\\Local\\Temp\\Rar$DIa15700.41116\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AYSU Y\u0130\u011E\u0130T\\AppData\\Local\\Temp\\Rar$DIa11504.1258\\MenuTablesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.businesslayer\\abstract\\imenutableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\imenutableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efmenutabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833C4A7E-C6E0-45F7-98C7-0E9470B2AD63}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efmenutabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\dtos\\basketdtos\\createbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\dtos\\basketdtos\\createbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\foodrapidapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\foodrapidapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\bookatable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\bookatable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\mapping\\menutablemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\mapping\\menutablemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\mapping\\bookingmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\mapping\\bookingmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\menutable\\tablelistbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\menutable\\tablelistbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrapi\\mapping\\productmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA1C71-C4AD-4A63-8F24-AB118F5AE000}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\mapping\\productmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalrwebui\\views\\default\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1DE9DC-CDF0-43DA-B6CE-EBD68F20B86C}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\default\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\signalrproject\\signalr.businesslayer\\validationrules\\bookingvalidations\\createbookingvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ADDF59-463B-4552-81F1-833D8575EA86}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\validationrules\\bookingvalidations\\createbookingvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "BookingMapping.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Mapping\\BookingMapping.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Mapping\\BookingMapping.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Mapping\\BookingMapping.cs",
+              "RelativeToolTip": "SignalRApi\\Mapping\\BookingMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:22:02.873Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\MenuTable\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\MenuTable\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\MenuTable\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\MenuTable\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T18:17:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerTableList.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\CustomerTable\\CustomerTableList.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\CustomerTable\\CustomerTableList.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\CustomerTable\\CustomerTableList.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\CustomerTable\\CustomerTableList.cshtml",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAHMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T17:18:22.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuTablesController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\MenuTablesController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\MenuTablesController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\MenuTablesController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\MenuTablesController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:32:48.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerTableController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\CustomerTableController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\CustomerTableController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\CustomerTableController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\CustomerTableController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:17:48.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateMenuTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\MenuTable\\CreateMenuTable.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\MenuTable\\CreateMenuTable.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\MenuTable\\CreateMenuTable.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\MenuTable\\CreateMenuTable.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T18:17:26.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Statistic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Statistic\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Statistic\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T09:39:10.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_MenuNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_MenuNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_MenuNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_MenuNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:11:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignalRHub.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Hubs\\SignalRHub.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Hubs\\SignalRHub.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Hubs\\SignalRHub.cs",
+              "RelativeToolTip": "SignalRApi\\Hubs\\SignalRHub.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:37:02.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\StatisticController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:38:58.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutScriptComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutScriptComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutScriptComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutScriptComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:13:02.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:12:29.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T18:17:52.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:52:54.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T17:53:35.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAGgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:09:52.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:09:46.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:09:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutHeaderPartialComponent\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutHeaderPartialComponent\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutHeaderPartialComponent\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutHeaderPartialComponent\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:09:07.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutFooterComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutFooterComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutFooterComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutFooterComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:08:55.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultTestimonialComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultTestimonialComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultTestimonialComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultTestimonialComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:07:53.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultSliderComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultSliderComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultSliderComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultSliderComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:06:03.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultOurMenuComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultOurMenuComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultOurMenuComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultOurMenuComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:04:18.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultOfferComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultOfferComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultOfferComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultOfferComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:04:13.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultBookTableComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultBookTableComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultBookTableComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultBookTableComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:02:03.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T17:21:07.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_DefaultAboutComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultAboutComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultAboutComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultAboutComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultAboutComponentPartial.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:25:25.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QRCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\QRCodeController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\QRCodeController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\QRCodeController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\QRCodeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:24:32.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:25:22.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\SettingController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\SettingController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:24:37.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignalRDefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\SignalRDefaultController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\SignalRDefaultController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\SignalRDefaultController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\SignalRDefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:25:21.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UILayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\UILayoutController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\UILayoutController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\UILayoutController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\UILayoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:25:26.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProgressBarsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:24:31.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:24:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:24:21.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:25:33.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:16:21.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:56:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:42:37.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MailController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\MailController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\MailController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\MailController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\MailController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:45:10.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:45:09.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:45:06.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\DiscountController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:14:44.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:15:24.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateMailDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Dtos\\MailDtos\\CreateMailDto.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Dtos\\MailDtos\\CreateMailDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Dtos\\MailDtos\\CreateMailDto.cs",
+              "RelativeToolTip": "SignalRWebUI\\Dtos\\MailDtos\\CreateMailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:32:00.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\AppUser.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:52:05.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:28:21.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:28:20.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:44:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T17:26:02.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\UILayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\UILayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\UILayout\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\UILayout\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:13:34.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:13:13.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:13:10.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutSocialMediaComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutSocialMediaComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutSocialMediaComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutSocialMediaComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:13:07.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_MenuNavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\MenuComponents\\_MenuNavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\MenuComponents\\_MenuNavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\MenuComponents\\_MenuNavbarComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\MenuComponents\\_MenuNavbarComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:12:48.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_MenuCategoryFilterComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\MenuComponents\\_MenuCategoryFilterComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\MenuComponents\\_MenuCategoryFilterComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\MenuComponents\\_MenuCategoryFilterComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\MenuComponents\\_MenuCategoryFilterComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:12:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_UILayoutNavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutNavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutNavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutNavbarComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutNavbarComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:12:44.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutHeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutHeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutHeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutHeadComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:12:26.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutFooterComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutFooterComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_UILayoutFooterComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_UILayoutFooterComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:12:10.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_MenuCategoryFilterComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_MenuCategoryFilterComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_MenuCategoryFilterComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_MenuCategoryFilterComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:11:15.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_LayoutSidebarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutSidebarComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutSidebarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutSidebarComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutSidebarComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:08:41.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_LayoutScriptComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutScriptComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutScriptComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutScriptComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutScriptComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:08:41.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_LayoutNavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutNavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutNavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutNavbarComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutNavbarComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:08:40.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_LayoutHeaderPartialComponent.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutHeaderPartialComponent.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutHeaderPartialComponent.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutHeaderPartialComponent.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutHeaderPartialComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:08:39.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_LayoutFooterComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutFooterComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutFooterComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutFooterComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\LayoutComponents\\_LayoutFooterComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:08:36.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_DefaultTestimonialComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultTestimonialComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultTestimonialComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultTestimonialComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultTestimonialComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:07:50.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_DefaultOfferComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultOfferComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultOfferComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultOfferComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultOfferComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:04:09.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_DefaultOurMenuComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultOurMenuComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultOurMenuComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultOurMenuComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultOurMenuComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:04:34.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_DefaultSliderComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultSliderComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultSliderComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultSliderComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultSliderComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:05:34.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_DefaultBookTableComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultBookTableComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultBookTableComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultBookTableComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\DefaultComponents\\_DefaultBookTableComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:03:00.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T06:57:37.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:26:38.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:38:06.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:52:46.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BookATableController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\BookATableController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\BookATableController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\BookATableController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\BookATableController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:28:36.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:00:35.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AdminLayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\AdminLayoutController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\AdminLayoutController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\AdminLayoutController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\AdminLayoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:44:26.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\NotificationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:56:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DiscountsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountsController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\DiscountsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountsController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\DiscountsController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:25:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:25:26.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:34:16.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:56:02.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AboutsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\AboutsController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\AboutsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\AboutsController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\AboutsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:17:40.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "MoneyCasesController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\MoneyCasesController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\MoneyCasesController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\MoneyCasesController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\MoneyCasesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:25:36.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EfSocialMediaDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfSocialMediaDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfSocialMediaDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfSocialMediaDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfSocialMediaDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:55:54.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwFEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:43:58.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "EfOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfOrderDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfOrderDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfOrderDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfOrderDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:45:36.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\BasketsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\BasketsController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:27:56.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "FoodRapidApiController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\FoodRapidApiController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\FoodRapidApiController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Controllers\\FoodRapidApiController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\FoodRapidApiController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:45:03.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:42:23.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "EfOrderDetailDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfOrderDetailDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfOrderDetailDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfOrderDetailDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfOrderDetailDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:43:57.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T17:18:45.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "_UILayoutFooterComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutFooterComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutFooterComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutFooterComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutFooterComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:20:53.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "_UILayoutSocialMediaComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutSocialMediaComponentPartial.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutSocialMediaComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutSocialMediaComponentPartial.cs",
+              "RelativeToolTip": "SignalRWebUI\\ViewComponents\\UILayoutComponents\\_UILayoutSocialMediaComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:20:57.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IBasketDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IBasketDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IBasketDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IBasketDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IBasketDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:28:00.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T18:17:16.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "EfBasketDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfBasketDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfBasketDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfBasketDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfBasketDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:28:14.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "UpdateAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\About\\UpdateAbout.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\About\\UpdateAbout.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\About\\UpdateAbout.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\About\\UpdateAbout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T17:17:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\SlidersController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:25:42.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "SocialMediasController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\SocialMediasController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\SocialMediasController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\SocialMediasController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\SocialMediasController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:25:45.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "TestimonialsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\TestimonialsController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\TestimonialsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Controllers\\TestimonialsController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\TestimonialsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:25:46.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Program.cs",
+              "RelativeToolTip": "SignalRApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:13:51.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "AboutMapping.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Mapping\\AboutMapping.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Mapping\\AboutMapping.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Mapping\\AboutMapping.cs",
+              "RelativeToolTip": "SignalRApi\\Mapping\\AboutMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:13:42.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "AboutManager.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Concrete\\AboutManager.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Concrete\\AboutManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:00:30.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:00:22.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IAboutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:00:10.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IBasketService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IBasketService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IBasketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:00:25.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "EfAboutDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:52:20.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "IAboutDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IAboutDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IAboutDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IAboutDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IAboutDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:52:50.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:41:32.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:39:27.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20241021135315_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Migrations\\20241021135315_initialCreate.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Migrations\\20241021135315_initialCreate.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Migrations\\20241021135315_initialCreate.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Migrations\\20241021135315_initialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:39:25.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:23:15.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Message.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:56:39.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "MenuTable.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\MenuTable.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\MenuTable.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\MenuTable.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\MenuTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:56:13.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Basket.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Basket.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Basket.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Basket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:52:12.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\AppRole.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\AppRole.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:52:03.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Booking.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:54:31.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Contact.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:55:43.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Discount.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Discount.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Discount.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:55:46.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Notification.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:56:46.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Order.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:57:02.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:57:38.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Product.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:00:22.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\About.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:51:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "MoneyCase.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\MoneyCase.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\MoneyCase.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\MoneyCase.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\MoneyCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:56:41.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Feature.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Feature.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Feature.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:56:05.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Slider.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:02:02.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\SocialMedia.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\SocialMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:02:03.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Testimonial.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.EntityLayer\\Entities\\Testimonial.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\Testimonial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:02:05.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T18:17:56.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\AppData\\Local\\Temp\\Rar$DIa15700.41116\\MenuController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa15700.41116\\MenuController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\AppData\\Local\\Temp\\Rar$DIa15700.41116\\MenuController.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa15700.41116\\MenuController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:35:01.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "IMenuTableDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IMenuTableDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IMenuTableDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IMenuTableDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IMenuTableDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:49:18.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "EfMenuTableDal.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfMenuTableDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfMenuTableDal.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfMenuTableDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfMenuTableDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:50:14.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "IMenuTableService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IMenuTableService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IMenuTableService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IMenuTableService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IMenuTableService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:49:13.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "MenuTablesController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\AppData\\Local\\Temp\\Rar$DIa11504.1258\\MenuTablesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa11504.1258\\MenuTablesController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\AppData\\Local\\Temp\\Rar$DIa11504.1258\\MenuTablesController.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa11504.1258\\MenuTablesController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:53:23.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "CreateBasketDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Dtos\\BasketDtos\\CreateBasketDto.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Dtos\\BasketDtos\\CreateBasketDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Dtos\\BasketDtos\\CreateBasketDto.cs",
+              "RelativeToolTip": "SignalRWebUI\\Dtos\\BasketDtos\\CreateBasketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:55:42.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T15:29:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\FoodRapidApi\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\FoodRapidApi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\FoodRapidApi\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\FoodRapidApi\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T17:18:51.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "MenuTableMapping.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Mapping\\MenuTableMapping.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Mapping\\MenuTableMapping.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Mapping\\MenuTableMapping.cs",
+              "RelativeToolTip": "SignalRApi\\Mapping\\MenuTableMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:36:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\BookATable\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\BookATable\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\BookATable\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\BookATable\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T15:27:51.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "TableListByStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\MenuTable\\TableListByStatus.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\MenuTable\\TableListByStatus.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\MenuTable\\TableListByStatus.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\MenuTable\\TableListByStatus.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T17:20:31.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "SendMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Default\\SendMessage.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Default\\SendMessage.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRWebUI\\Views\\Default\\SendMessage.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Default\\SendMessage.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T15:29:48.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "ProductMapping.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Mapping\\ProductMapping.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Mapping\\ProductMapping.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalRApi\\Mapping\\ProductMapping.cs",
+              "RelativeToolTip": "SignalRApi\\Mapping\\ProductMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:25:56.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "CreateBookingValidation.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\ValidationRules\\BookingValidations\\CreateBookingValidation.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\ValidationRules\\BookingValidations\\CreateBookingValidation.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\SignalRProject\\SignalR.BusinessLayer\\ValidationRules\\BookingValidations\\CreateBookingValidation.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\ValidationRules\\BookingValidations\\CreateBookingValidation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:01:58.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
