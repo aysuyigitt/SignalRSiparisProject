@@ -5,7 +5,7 @@
 Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı dostu bir hale getirecek bir çözüm sunmaktır. Gerçek zamanlı veri iletimi sağlamak için SignalR teknolojisini kullanarak, siparişler, rezervasyonlar ve bildirimler anlık olarak güncellenip takip edilebilir. Restoran yöneticileri, masa durumu, rezervasyon yönetimi ve veritabanı bilgilerini anlık olarak izleyebilirken, müşteriler siparişlerini kolayca verebilir ve bu siparişler mutfakta hızla işleme alınabilir.
 
 
-## Projenin Öne Çıkan Özellikleri:
+## Projenin Öne Çıkan Özellikleri: ##
 
 🚀 **Anlık Sipariş ve Sepet Yönetimi:** Müşteriler siparişlerini masalarına ekleyebilir, sepetlerini güncelleyebilir ve siparişler mutfağa anında iletilir.
 
@@ -20,6 +20,8 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 🚀 **Yemek Tarifleri Görüntüleme:** Rapid API üzerinden kullanıcılar yemek tariflerine erişebilir.
 
 🚀 **AutoMapper ile Hızlı Eşleme:** Veritabanı nesneleri ile DTO nesneleri arasında otomatik eşleme sağlanarak geliştirme süreci hızlandırılır.
+
+
 
 
 
@@ -44,14 +46,6 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 
 ![anasayfa](https://github.com/user-attachments/assets/b158a9ef-112c-42a5-9a94-af3b15266e8c)
-
-
-
-
-
-
-
-
 
 
 
