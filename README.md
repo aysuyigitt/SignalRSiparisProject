@@ -31,7 +31,9 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 
 
-**Kullanılan Teknolojiler:**
+
+
+## Kullanılan Teknolojiler:##
 
 🌍 ASP.NET Core & Web API: Performans odaklı, sağlam altyapı ve hızlı API yönetimi.
 
