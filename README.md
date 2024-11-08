@@ -5,6 +5,8 @@
 Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı dostu bir hale getirecek bir çözüm sunmaktır. Gerçek zamanlı veri iletimi sağlamak için SignalR teknolojisini kullanarak, siparişler, rezervasyonlar ve bildirimler anlık olarak güncellenip takip edilebilir. Restoran yöneticileri, masa durumu, rezervasyon yönetimi ve veritabanı bilgilerini anlık olarak izleyebilirken, müşteriler siparişlerini kolayca verebilir ve bu siparişler mutfakta hızla işleme alınabilir.
 
 
+
+
 ## Projenin Öne Çıkan Özellikleri: ##
 
 🚀 **Anlık Sipariş ve Sepet Yönetimi:** Müşteriler siparişlerini masalarına ekleyebilir, sepetlerini güncelleyebilir ve siparişler mutfağa anında iletilir.
@@ -25,6 +27,10 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 
 
+
+
+
+
 **Kullanılan Teknolojiler:**
 
 🌍 ASP.NET Core & Web API: Performans odaklı, sağlam altyapı ve hızlı API yönetimi.
@@ -40,6 +46,11 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 🔄 AutoMapper: Veritabanı nesneleri ile DTO'lar arasında otomatik eşleme, geliştirme sürecini hızlandırır.
 
 🔐 Identity: Kullanıcı kimlik doğrulama, yetkilendirme ve güvenlik yönetimi için entegre çözüm.
+
+
+
+
+
 
 
 **Resimler**
