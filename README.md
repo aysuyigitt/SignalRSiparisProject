@@ -47,7 +47,13 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 
 
+
+
+
 ![menümüz](https://github.com/user-attachments/assets/9ed9a5f8-7a10-41eb-955c-0c553ea2da45)
+
+
+
 
 
 
@@ -55,7 +61,14 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 
 
+
+
+
 ![giriş](https://github.com/user-attachments/assets/410e3df3-234b-4d16-92c8-e0f0c25778f9)
+
+
+
+
 
 
 
@@ -63,11 +76,25 @@ Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı do
 
 
 
+
+
+
+
+
 ![sepet](https://github.com/user-attachments/assets/7089bd9c-8688-4c68-8502-99829f29f102)
 
 
 
+
+
+
+
 ![statşc](https://github.com/user-attachments/assets/60ebdc14-6607-4ae3-94c9-4e856c9a1427)
+
+
+
+
+
 
 
 
