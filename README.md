@@ -2,7 +2,7 @@
 
 # SignalR ile QR Kodlu Sipariş Yönetim Projesi
 
-Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı dostu bir hale getirecek bir çözüm sunmaktır. Gerçek zamanlı veri iletimi sağlamak için SignalR teknolojisini kullanarak, siparişler, rezervasyonlar ve bildirimler anlık olarak güncellenip takip edilebilir. Restoran yöneticileri, masa durumu, rezervasyon yönetimi ve veritabanı bilgilerini anlık olarak izleyebilirken, müşteriler siparişlerini kolayca verebilir ve bu siparişler mutfakta hızla işleme alınabilir.
+Bu projenin amacı, restoran yönetimini daha hızlı, verimli ve kullanıcı dostu bir hale getirecek bir çözüm sunmaktır. Gerçek zamanlı veri iletimi sağlamak için SignalR teknolojisini kullanarak, siparişler, rezervasyonlar ve bildirimler anlık olarak güncellenip takip edilebilir. Restoran yöneticileri, masa durumu, rezervasyon yönetimi ve veritabanı bilgilerini anlık olarak izleyebilirken, müşteriler siparişlerini kolayca verebilir ve bu siparişler mutfakta hızla işleme alınabilir
 
 
 
